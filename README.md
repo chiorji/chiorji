@@ -1,23 +1,25 @@
 ## Hi there 👋
 
-# I am Ch;gbogu
+# I'm Chigbogu
 
-### *Passionate, innovative, always on time :clock8:*
+**I am - Passionate, innovative and always on time**
 
-I love translating designs to reusable codes, determining developer requirements; 
-and collaborating with creative and development teams on the execution of ideas and projects.
+I love translating designs/ideas into reusable code.
+
+I help in determining developer requirements; and collaborating with creative 
+and development teams on the execution of ideas and projects.
 
 
 ### 📫 Links: <br />
-Twitter: as [@chigboguorji](https://twitter.com/chigboguorji) <br />
+**Twitter:** [@chigboguorji](https://twitter.com/chigboguorji) <br />
 
-Email: I receive and reply mails on [brightorji60@gmail.com](mailto:brightorji60@gmail.com) <br />
+**Email:** I receive and reply mails on [brightorji60@gmail.com](mailto:brightorji60@gmail.com) <br />
 
-Blog: will be documenting my tech journey and findings at [https://hashnode.com/@chiorji](https://hashnode.com/@chiorji)
+**Blog:** will be documenting my tech journey and findings at [https://hashnode.com/@chiorji](https://hashnode.com/@chiorji)
 
-Portolio site: [just the sliced version :smile_cat: of my github projects and little more about me](https://chigboguorji.netlify.app)
+**Portolio site:** [just the sliced version :smile_cat: of my github projects and little more about me](https://chigboguorji.netlify.app)
 
-**I *unintentionally* make mistakes; but I *intentionally learn* from them**
+**Oops! I make mistakes; but don't worry - I *do learn* from and *never repeat* them.**
 
 <!--
 **chiorji/chiorji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
