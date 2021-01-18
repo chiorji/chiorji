@@ -2,12 +2,10 @@
 
 # I'm Chigbogu
 
-**I am - Passionate, innovative and always on time**
+**Passion meets Innovative and Creative Thinker**
 
-I love translating designs/ideas into reusable code.
-
-I help in determining developer requirements; and collaborating with creative 
-and development teams on the execution of ideas and projects.
+I love translating designs/ideas into reusable code and help in determining developer requirements;
+and collaborating with creative and development teams on the execution of ideas and projects.
 
 
 ### 📫 Links: <br />
