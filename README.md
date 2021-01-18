@@ -17,7 +17,7 @@ and development teams on the execution of ideas and projects.
 
 **Blog:** will be documenting my tech journey and findings at [https://hashnode.com/@chiorji](https://hashnode.com/@chiorji)
 
-**Portolio site:** [just the sliced version :smile_cat: of my github projects and little more about me](https://chigboguorji.netlify.app)
+**Portfolio site:** [a slice :smile_cat: of my github projects and little more about me](https://chigboguorji.netlify.app)
 
 **Oops! I make mistakes; but don't worry - I *do learn* from and *never repeat* them.**
 
