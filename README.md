@@ -2,7 +2,7 @@
 
 # I'm Chigbogu
 
-**Passion meets Innovative and Creative Thinker**
+**Heart and soul in every line of code**
 
 I love translating designs/ideas into reusable code and help in determining developer requirements;
 and collaborating with creative and development teams on the execution of ideas and projects.
