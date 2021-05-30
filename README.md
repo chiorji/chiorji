@@ -9,7 +9,7 @@ and collaborating with creative and development teams on the execution of ideas 
 
 
 ### 📫 Links: <br />
-**Twitter:** [@chigboguorji](https://twitter.com/_zeroth_) <br />
+**Twitter:** [@_zeroth_](https://twitter.com/_zeroth_) <br />
 
 **Email:** I receive and reply mails on [brightorji60@gmail.com](mailto:brightorji60@gmail.com) <br />
 
