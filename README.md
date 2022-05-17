@@ -1,10 +1,7 @@
-## Hi there 👋
+#### Hello!
 
 # I'm Chigbogu
 
-**Heart and soul in every line of code**
+A Software Engineer.
 
-I love translating designs/ideas into reusable code and help in determining developer requirements;
-and collaborating with creative and development teams on the execution of ideas and projects.
-
-*When am not coding, am learning how to code better*
+*When am not coding, I'm learning how to code better.*
