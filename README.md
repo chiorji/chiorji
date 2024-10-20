@@ -8,4 +8,4 @@ A Software Engineer.
 
 Some weekends, I solve coding challenges on codewars.
 
-![codewars](https://www.codewars.com/users/Chigbogu/badges/large)
+![codewars](https://www.codewars.com/users/chiorji/badges/large)
