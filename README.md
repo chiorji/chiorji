@@ -1,11 +1,1 @@
-#### Hello!
-
-# I'm Chigbogu
-
-A Software Engineer.
-
-*When I'm not coding, I'm learning how to code better.*
-
-Some weekends, I solve coding challenges on codewars.
-
-![codewars](https://www.codewars.com/users/chiorji/badges/large)
+![Static Badge](https://img.shields.io/badge/Software_Engineer-Chigbogu_Orji?style=for-the-badge&logo=https%3A%2F%2Fgithub.com%2Fchiorji&logoColor=blue&logoSize=auto&label=Chigbogu%20Orji&color=blue)
